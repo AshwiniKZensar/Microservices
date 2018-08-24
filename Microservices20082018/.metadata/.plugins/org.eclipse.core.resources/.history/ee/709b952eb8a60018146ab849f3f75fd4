@@ -1,0 +1,7 @@
+server.port=9999
+spring.application.name=configserver
+spring.cloud.config.server.git.uri=https://github.com/sharadrajore/config-server.git
+eureka.client.service-url.defaultZone=http://localhost:8767/eureka
+eureka.client.register-with-eureka=true
+
+

@@ -1,0 +1,5 @@
+package com.zensar.microservices.service;
+
+public class ServiceController {
+
+}

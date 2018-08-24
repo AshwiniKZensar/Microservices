@@ -1,0 +1,18 @@
+package com.zensar.microservices.service;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ServiceController {
+	
+	//@RequestMapping("/")
+	//@RequestMapping
+	//@GetMapping("/")
+	@GetMapping
+	public String getMessage() {
+		
+	}
+
+}

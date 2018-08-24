@@ -1,0 +1,6 @@
+spring.application.name=config-client-app
+spring.profiles.active=prod
+#eureka.client.service-url.defaultZone=http://localhost:8761/eureka
+
+#spring.cloud.config.discovery.enabled=true
+#spring.profiles.active=default
